@@ -1,2 +1,2 @@
-# crashpython
-My worked examples for WDSS Summer Python Course 
+# Crash python
+My worked examples for WDSS Summer Python Course.
